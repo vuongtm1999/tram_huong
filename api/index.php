@@ -1,5 +1,5 @@
 <?php 
-	$dm='http://localhost/tram_huong/';
+	$dm='http://localhost/tram_huong/api/';
 ?>
 <!DOCTYPE html>
 <html lang="en">
